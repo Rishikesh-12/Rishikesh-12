@@ -1,4 +1,4 @@
-<img align ="right" src = "https://github.com/Rishikesh-12/hack-jaipur/blob/master/octacat/tentacles2.png" width="150" height="150">
+<img align ="right" src = "https://pngimg.com/uploads/github/github_PNG35.png" width="150" height="150">
 
 ### Hi there 👋
 
