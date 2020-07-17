@@ -10,10 +10,10 @@
     <img src="https://img.shields.io/badge/rishikesh-mishra-b98a20156?style=flat&logo=linkedin">
   </a> &nbsp; 
   <a href="https://twitter.com/im_rishi_9">
-    <img src="https://img.shields.io/badge/@Aim_rishi_9?style=flat&logo=twitter">
+    <img src="https://img.shields.io/badge/@im_rishi_9-30302f?style=flat&logo=twitter">
   </a>
  <a href="https://medium.com/@rishikesh12">
-    <img src="https://img.shields.io/badge/rishikesh12f?style=flat&logo=medium">
+    <img src="https://img.shields.io/badge/rishikesh12f-30302f?style=flat&logo=medium">
   </a>
 </p>
 
