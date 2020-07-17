@@ -1,10 +1,10 @@
+<img align ="right" src = "https://github.com/Rishikesh-12/hack-jaipur/blob/master/octacat/tentacles2.png" width="150" height="150">
+
 ### Hi there 👋
 
 * 🌱 I’m currently learning React
 
-
- 📫Connect me here:<br />
- <br />
+ 📫Connect me here:
  <p>
   <a href="https://www.linkedin.com/in/rishikesh-mishra-b98a20156/">
     <img src="https://img.shields.io/badge/rishikesh-mishra-b98a20156?style=flat&logo=linkedin">
