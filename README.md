@@ -2,7 +2,8 @@
 <img align ="right" src = "https://pngimg.com/uploads/github/github_PNG35.png" width="150" height="150">
 -->
 <img align ="right" src = https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif width="350" height="200">
-### Hi there 👋
+### Hi there 👋 
+#### See how much I am dedicated ! 
 
 * 🌱 I’m currently learning React
 
