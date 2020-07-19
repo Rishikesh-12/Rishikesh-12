@@ -1,5 +1,7 @@
+<!--
 <img align ="right" src = "https://pngimg.com/uploads/github/github_PNG35.png" width="150" height="150">
-
+-->
+<img align ="right" src = https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif width="150" height="150">
 ### Hi there 👋
 
 * 🌱 I’m currently learning React
