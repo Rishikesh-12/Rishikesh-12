@@ -1,5 +1,6 @@
 <img align ="right" src = https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif width="350" height="200">
-### Hi there 👋
+
+<h3> Hi there 👋 </h3>
 
 * See how much I am dedicated ! 
 
