@@ -2,7 +2,7 @@
 
 <h3> Hi there 👋 </h3>
 
-* 🌱 I’m currently learning React
+* 🌱 I’m currently learning Data Structure and Algorithms.
 
  📫Connect me here:
  <p>
