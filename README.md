@@ -4,7 +4,7 @@
 
 * 🌱 I’m currently learning Data Structure and Algorithms.
 
- 📫Connect me here:
+ 📫 Connect with me here:
  <p>
   <a href="https://www.linkedin.com/in/rishikesh-mishra-b98a20156/">
     <img src="https://img.shields.io/badge/rishikesh-mishra-b98a20156?style=flat&logo=linkedin">
