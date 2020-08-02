@@ -2,8 +2,6 @@
 
 <h3> Hi there 👋 </h3>
 
-* See how much I am dedicated ! 
-
 * 🌱 I’m currently learning React
 
  📫Connect me here:
