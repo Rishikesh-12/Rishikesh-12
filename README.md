@@ -3,6 +3,7 @@
 <h3> Hi there 👋 </h3>
 
 * 🌱 I’m currently learning Data Structure and Algorithms.
+* 🏏 A project related to cricket is in pipline . Surely will be available before ipl 2020 commences
 
  📫 Connect with me here:
  <p>
