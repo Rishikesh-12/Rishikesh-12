@@ -1,10 +1,11 @@
-<img align ="right" src =https://i.pinimg.com/originals/ff/5b/36/ff5b3663f4704303ffbdb738553c9064.gif  width="350" height="200">
+<img align ="right" src =https://undo.io/media/uploads/files/Frustrated_programmer.gif  width="350" height="200">
  
 <h3> Hi there 👋 </h3>
 <!--
 * 🌱 I’m currently learning Data Structure and Algorithms.
 -->
- 📫 Connect with me here:
+ 📫 How to reach me:
+ <p> </p>
  <p>
   <a href="https://www.linkedin.com/in/rishikesh-mishra-b98a20156/">
     <img src="https://img.shields.io/badge/rishikesh-mishra-b98a20156?style=flat&logo=linkedin">
