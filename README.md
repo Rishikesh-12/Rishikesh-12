@@ -1,10 +1,9 @@
-<img align ="right" src =https://media.giphy.com/media/l1J9qemh1La8b0Rag/giphy.gif  width="350" height="200">
+<img align ="right" src =https://i.pinimg.com/originals/ff/5b/36/ff5b3663f4704303ffbdb738553c9064.gif  width="350" height="200">
  
 <h3> Hi there 👋 </h3>
-
+<!--
 * 🌱 I’m currently learning Data Structure and Algorithms.
-* 🏏 A project related to cricket is in pipline . Surely will be available before ipl 2020 commences
-
+-->
  📫 Connect with me here:
  <p>
   <a href="https://www.linkedin.com/in/rishikesh-mishra-b98a20156/">
